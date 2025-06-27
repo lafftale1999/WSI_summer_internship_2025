@@ -9,7 +9,7 @@ There are two main subscribers to the MQTT topic(s):
 * **A cloud-hosted server:** This server listens to the MQTT messages and stores the incoming sensor readings in a database hosted on Microsoft Azure. The stored data ensures historical tracking, analysis, and further processing of sensor values over time.
 * **An ESP32 microcontroller:** This device subscribes to the same MQTT topic and displays the real-time sensor readings on an LCD screen, providing immediate visual feedback at the edge.
 
-To facilitate integration with external systems and the frontend, the server also exposes a RESTful API. This API allows clients to fetch the stored sensor data in JSON format. The frontend application consumes this API to present relevant sensor information to users in an intuitive and user-friendly interface.
+To facilitate integration with external systems and the frontend, the server also exposes an API. This API allows clients to fetch the stored sensor data in JSON format. The frontend application consumes this API to present relevant sensor information to users in an intuitive and user-friendly interface.
 
 ![IoT Architecture for the Summer Internship](resources/IoT%20Architecture.jpg)
 

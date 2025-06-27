@@ -10,3 +10,12 @@
 [submodule "lcd_1602_i2c_driver"]
 	path = lcd_1602_i2c_driver
 	url = https://github.com/lafftale1999/lcd_1602_i2c_driver.git
+[submodule "Mosquitto_MQTT_Docker"]
+	path = Mosquitto_MQTT_Docker
+	url = https://github.com/lafftale1999/Mosquitto_MQTT_Docker.git
+[submodule "weather-frontend"]
+	path = weather-frontend
+	url = https://github.com/MikaelaDuran/weather-frontend.git
+[submodule "weather-backend"]
+	path = weather-backend
+	url = https://github.com/MikaelaDuran/weather-backend.git

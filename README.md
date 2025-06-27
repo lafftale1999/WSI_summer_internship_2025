@@ -58,6 +58,7 @@ Single‑page web dashboard that visualises live & historical sensor data from t
 * Interactive chart with temperature, humidity and pressure
 * Date and time picker
 
+https://github.com/MikaelaDuran/weather-frontend
 
 ## Thank you
 Special thanks to [Nakerlund](https://github.com/nakerlund) and [J0nt3](https://github.com/j0nt392) for your guidance and support! And thank you to [Mikaela](https://github.com/MikaelaDuran) for being an awesome co-intern!

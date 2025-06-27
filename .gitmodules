@@ -1,0 +1,12 @@
+[submodule "bme280_driver"]
+	path = bme280_driver
+	url = https://github.com/lafftale1999/bme280_driver.git
+[submodule "raspberry_pi_pico_temp_sensor_reader"]
+	path = raspberry_pi_pico_temp_sensor_reader
+	url = https://github.com/lafftale1999/raspberry_pi_pico_temp_sensor_reader.git
+[submodule "esp32_mqtt_weather_display"]
+	path = esp32_mqtt_weather_display
+	url = https://github.com/lafftale1999/esp32_mqtt_weather_display.git
+[submodule "lcd_1602_i2c_driver"]
+	path = lcd_1602_i2c_driver
+	url = https://github.com/lafftale1999/lcd_1602_i2c_driver.git
